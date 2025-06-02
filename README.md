@@ -17,15 +17,6 @@ I’m Devesh, a passionate **Computer Science Engineering** student at **Mohan B
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🎵 [**MoodTunes**](https://github.com/YOUR_GITHUB_USERNAME/MoodTunes) – A mood-based music player Android app
