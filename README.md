@@ -19,5 +19,5 @@ I’m Devesh, a passionate **Computer Science Engineering** student at **Mohan B
 
 ### 📌 Featured Projects
 
-- 🎵 [**MoodTunes**](https://github.com/YOUR_GITHUB_USERNAME/MoodTunes) – A mood-based music player Android app
+- 🎵 [Food ordering app](https://github.com/YOUR_GITHUB_USERNAME/MoodTunes) – To order food Android app
 - 🍔 [**TastyTreats**](https://github.com/YOUR_GITHUB_USERNAME/TastyTreats) – A mini food ordering app using Java & SQ
